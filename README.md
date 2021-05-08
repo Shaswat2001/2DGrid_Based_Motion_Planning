@@ -4,11 +4,11 @@ In the above project, A* and Djikstra Algorithm are used to compute the shortest
 
 The Following Libraries are used:
 * Numpy
-copy
-matplotlib
-heapq
-math
-sys
+* copy
+* matplotlib
+* heapq
+* math
+* sys
 
 Motion planning for both rigid and point robot is devised.
 
