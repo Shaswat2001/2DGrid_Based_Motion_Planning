@@ -15,3 +15,5 @@ Motion planning for both rigid and point robot is devised.
 A* Search Algorithm
 
 Dijktra Algorithm
+
+<img src="Images/PointR_Dijkstra.PNG" width=600>
