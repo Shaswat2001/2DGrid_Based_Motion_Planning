@@ -15,3 +15,5 @@ Motion planning for both rigid and point robot is devised.
 A* Search Algorithm
 
 Dijktra Algorithm
+
+![alt text](https://github.com/Shaswat2001/2DGrid_Based_Motion_Planning/tree/main/Images?raw=true)
