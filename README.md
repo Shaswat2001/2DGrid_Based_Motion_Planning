@@ -10,12 +10,15 @@ The Following Libraries are used:
 * math
 * sys
 
-Motion planning for both rigid and point robot is devised.
+Motion planning for both rigid and point robot is devised. In case of a rigid robot, both radius and clearance is considered while creating the free C space of the 
+robot. 
 
-A* Search Algorithm
+## A* Search Algorithm
+In case of A* search, the estimated total cost is calculated as the sum of past cost and optimistic cost to go. A* search is guaranteed to return a minimum 
+cost path efficiently as it uses the optimistic cost go to guide the algorithm to the optimum path. 
 
 <img src="Images/PointR_Astar.PNG" width=450 hspace=20 ><img src="Images/PointR_Dijkstra.PNG" width=450>
 
-Dijktra Algorithm
+## Dijktra Algorithm
 
 <img src="Images/PointR_Dijkstra.PNG" width=600>
