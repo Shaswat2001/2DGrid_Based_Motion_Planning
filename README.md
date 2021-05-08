@@ -16,4 +16,4 @@ A* Search Algorithm
 
 Dijktra Algorithm
 
-![alt text](https://github.com/Shaswat2001/2DGrid_Based_Motion_Planning/tree/main/Images?raw=true)
+<img src="Images/PointR_Dijkstra.PNG" width=600>
