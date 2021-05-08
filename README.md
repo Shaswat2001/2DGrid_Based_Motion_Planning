@@ -14,6 +14,8 @@ Motion planning for both rigid and point robot is devised.
 
 A* Search Algorithm
 
+<img src="Images/PointR_Astar.PNG" width=450 hspace=20 ><img src="Images/PointR_Dijkstra.PNG" width=450>
+
 Dijktra Algorithm
 
 <img src="Images/PointR_Dijkstra.PNG" width=600>
