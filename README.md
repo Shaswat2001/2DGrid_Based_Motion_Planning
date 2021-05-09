@@ -17,8 +17,8 @@ robot.
 In case of A* search, the estimated total cost is calculated as the sum of past cost and optimistic cost to go. A* search is guaranteed to return a minimum 
 cost path efficiently as it uses the optimistic cost go to guide the algorithm to the optimum path. 
 
-<img src="Images/PointR_Astar.PNG" width=450 hspace=20 ><img src="Images/RigidR_Astar.PNG" width=450>
+<img src="Images/PointR_Astar.PNG" width=450 hspace=10 ><img src="Images/RigidR_Astar.PNG" width=450 hspace=10>
 
 ## Dijktra Algorithm
 
-<img src="Images/PointR_Dijkstra.PNG" width=450 hspace=20 ><img src="Images/RigidR_Dijkstra.PNG" width=450>
+<img src="Images/PointR_Dijkstra.PNG" width=450 hspace=10 ><img src="Images/RigidR_Dijkstra.PNG" width=450 hspace=10>
